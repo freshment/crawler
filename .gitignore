@@ -1,3 +1,7 @@
+imageSrc/*.png
+imageSrc/*.jpg
+imageSrc/*.gif
+
 # Logs
 logs
 *.log
